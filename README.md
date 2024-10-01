@@ -3,7 +3,7 @@ The Water Consumption Tracker is a RESTful backend application designed to help 
 The system allows users to log water consumption, calculate daily intake, and view their water consumption history by day or month. 
 It also includes user authentication and profile management features.
 
-**Features**
+## Features
 
 **Server Setup**
 - Module Integration: Necessary modules such as express, mongoose, cors, and others are integrated for a seamless server setup.
@@ -15,7 +15,6 @@ It also includes user authentication and profile management features.
 **API Documentation**
 - Swagger Integration: Swagger is used for API documentation, allowing developers to interact with the API through a user-friendly interface.
 - Code Example: Swagger Implementation
-- Example Documentation: SwaggerHub API Example
 - Endpoint Descriptions: Each endpoint is documented with parameters, responses, and error messages.
   - User Registration.
   - User Login.
